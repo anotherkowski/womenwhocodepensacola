@@ -8,5 +8,7 @@ Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspir
 
 ### Resources
 [Women Who Code](https://www.womenwhocode.com/)
+
 [Our WWCode network](https://www.womenwhocode.com/pensacola)
+
 [Learn to program](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
