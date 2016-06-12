@@ -23,7 +23,7 @@ There is a Women Who Code national organization github where generic resources, 
 * [WWC Logos](https://github.com/WomenWhoCode/WWC-Assets/tree/master/logos)
 
 #### Pensacola Network
-[WWCode site](https://www.womenwhocode.com/pensacola)
-[Meet Up](http://www.meetup.com/Women-Who-Code-Pensacola/)
-[Facebook](https://www.facebook.com/groups/wwcodepensacola/)
-[Twitter](https://twitter.com/wwcodepensacola)
+* [WWCode site](https://www.womenwhocode.com/pensacola)
+* [Meet Up](http://www.meetup.com/Women-Who-Code-Pensacola/)
+* [Facebook](https://www.facebook.com/groups/wwcodepensacola/)
+* [Twitter](https://twitter.com/wwcodepensacola)
